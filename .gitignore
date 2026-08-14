@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.safetensors
+data/checkpoints/
+data/logs/
+.DS_Store
